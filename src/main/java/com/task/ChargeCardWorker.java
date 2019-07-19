@@ -1,4 +1,4 @@
-package org.camunda.bpm.getstarted.chargecard;
+package com.task;
 
 import org.camunda.bpm.client.ExternalTaskClient;
 import org.camunda.bpm.client.topic.TopicSubscription;

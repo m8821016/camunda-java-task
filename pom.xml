@@ -37,7 +37,7 @@
                         <addMavenDescriptor>false</addMavenDescriptor>
                         <compress>true</compress>
                         <manifest>
-                            <mainClass>org.camunda.bpm.getstarted.chargecard.ChargeCardWorker</mainClass>
+                            <mainClass>com.task.ChargeCardWorker</mainClass>
                             <addClasspath>true</addClasspath>
                             <classpathPrefix>lib/</classpathPrefix>
                         </manifest>
